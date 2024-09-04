@@ -1,0 +1,1 @@
+The project name called "CALCULATOR". It is a simple calculator that are done by some languages ie.html,css,javascript.In this calculator wecan also change the modes ie.light mode,dark mode.In addition to this I also added favicon to look attractive to hthe viewers.
